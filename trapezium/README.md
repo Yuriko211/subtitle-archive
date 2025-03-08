@@ -1,65 +1,41 @@
-[![cover][cover-art]][anidb-id]
+# trapezium The Movie
 
-| Anime Information  |                                                                           |
+| Information        |                                                                           |
 | ------------------ | ------------------------------------------------------------------------- |
-| **Title**          | Project SEKAI the Movie: The Fragmented SEKAI and The MIKU Who Can't Sing |
-| **Title (romaji)** | Project SEKAI the Movie: Kowareta SEKAI to Utaenai MIKU                   |
-| **TMDB ID**        | [1322752][tmdb-id]                                                        |
-| **AniDB ID**       | [18780][anidb-id]                                                         |
+| **Title**          | トラペジウム                                                               |
+| **Title (romaji)** | trapezium                                                                 |
+| **Title (Ind)**    | Film Layar Lebar: trapezium                                               |
+| **MAL ID**         | [57508][mal-id]                                                           |
 
 ### Staff
 
 | Movie Staff           |            |     | Song Staff    			   |                |
 | --------------------- | ---------- | --- | --------------------- | -------------- |
-| **Translation**       | chron      |     | **Translation**	     | ame    				|
-| **Translation Check** | ame		     |     |					             |         				|
-| **Editing**           | ame  		   |     | **Editing**           | rcombs	        |
-| **Encoding**          | sgt  		   |     |					             | ???     				|
-| **Timing**            | Nyarthur   |     |					             |         				|
-| **Typesetting**       | Nyarthur   |     | **Styling**	         | Zahuczky       |
-|						            | witchymary |     |                       |               	|
+| **Translation**       | Yuriko     |     | **Translation**	     | Yuriko    			|
+| **Translation Check** | pololer	   |     | **Editing**					 | pololer        |
+| **Editing**           | pololer  	 |     | **Styling**           | ???	          |
+| **Encoding**          | Aksamala   |     |                       |                |
+|                       | pololer    |     |                       |    				    |  
+| **Timing**            | Yuriko     |     |					             |         				|
+| **Typesetting**       | Yuriko     |     |                       |                |
+| **Quality Control**   | pololer		 |     |					             |         				|
 |						            |	      		 |	   |					             |         				|
-| **Quality Control**   | ML04		   |     |					             |         				|
-|						            |	      		 |	   |					             |         				|
 
-### Video
+### Compatible Sources
 
-|                  |                              |                        |
-| ---------------- | ---------------------------- | ---------------------- |
-| **Sources**      | BD (Presumably)              |                        |
-| **Resolution**   | 1920x1080p?                  |                        |
-| **Codec**        | H.265?                       |                        |
-| **Aspect Ratio** | 16:9?                        |                        |
-| **Extra**        | Video Comparison (Todo)      | MediaInfo (Todo)       |
+This subtitle is only compatible with the BD release. If you downloaded it from a other source, please try following the instruction below.
+| Source             | Compatible                                                                |
+| ------------------ | ------------------------------------------------------------------------- |
+| **Crunchyroll
+| *
 
-### Audio
-
-| Track        | Codec | Channels | Bitrate  | Source      | Default | Forced |
-| ------------ | ----- | -------- | -------- | ----------- | ------- | ------ |
-| **Japanese** | Opus? | 5.1?     | ??? kbps | BD?         | Yes     | No     |
-
-### Subtitles
-
-| Track                           | Language | Language Code | Format | Default | Forced |
-| ------------------------------- | -------- | ------------- | ------ | ------- | ------ |
-| **Full Subtitles**              | English  | eng           | ASS    | Yes     | No     |
-| **Full Subtitles (Honorifics)** | English  | enm           | ASS    | Yes     | No     |
-
-This release contains an alternative honorifics track for those who perfer a more foreignized localization philosophy.
-Set your media player to play "enm" language tracks by default to automatically play honorifics tracks.
-
-Spot an issue, or just want to chat? You can find most of our staff active on the [GJM Discord server][discord]!
-
-We only support [mpv][]! Please try out a recent mpv build if you run into any playback issues.
-
-You are free to re-use any part of our release,
-provided you are not redistributing for the purpose of monetary gain.
-Credit for our work is appreciated, but not required.
+### Notes
+- The subtitle script is available in [.srt][srt] format
+- ****
 
 [//]: <> (Info)
-[cover-art]: https://cdn-eu.anidb.net/images/main/306733.jpg
-[tmdb-id]: https://www.themoviedb.org/movie/1322752
-[anidb-id]: https://anidb.net/anime/18780
+[mal-id]: https://myanimelist.net/anime/57508/Trapezium
+[srt]: https://mailchimp.com/resources/what-is-an-srt-file/
 
 [//]: <> (Sources)
 
